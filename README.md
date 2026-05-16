@@ -1,22 +1,22 @@
-# Hi there, I'm Franco Estavillo 👋
+# Hi there, I'm Franco Estavillo
 
-### 💻 IT Student | Aspiring Full-Stack Developer | Technical Support Intern
+### IT Student | Aspiring Full-Stack Developer | Technical Support Intern
 
-I'm an IT undergraduate from the Philippines who enjoys learning in how to build web software applications while continuously learning new technologies. I also have hands-on experience in technical support, troubleshooting hardware and network issues, and maintaining smooth day-to-day IT operations.
-
----
-
-## 🚀 About Me
-
-* 🎓 BSIT Student at STI College - Caloocan
-* 📱 Interested in Software Development
-* 🛠️ Technical Support Intern at Inspiro
-* 🌱 Currently improving my skills in React, React Native, Node.js, and PostgreSQL
-* 🤝 Open to internship and entry-level opportunities in software development and IT support
+I'm an IT undergraduate from the Philippines who enjoys building web and mobile applications while continuously learning new technologies. I also have hands-on experience in technical support, troubleshooting hardware and network issues, and maintaining smooth day-to-day IT operations.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+* BSIT Student at STI College - Caloocan
+* Interested in Web & Mobile Development
+* Technical Support Intern at Inspiro
+* Currently improving my skills in React, React Native, Node.js, and PostgreSQL
+* Open to internship and entry-level opportunities in software development and IT support
+
+---
+
+## Tech Stack
 
 ### Frontend
 
@@ -40,16 +40,16 @@ I'm an IT undergraduate from the Philippines who enjoys learning in how to build
 
 ### Currently Learning
 
-* React Development
+* Advanced React Development
 * Backend APIs
 * System Administration
 * Python Fundamentals
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🚀 BrgyExpress — Capstone Project
+### BrgyExpress — Capstone Project
 
 An integrated mobile and web-based e-governance system for Barangay 73, Caloocan City.
 
@@ -61,15 +61,15 @@ An integrated mobile and web-based e-governance system for Barangay 73, Caloocan
 * Worked with PostgreSQL for database management
 * Assisted in analytics, request management, and user administration
 
-🏆 Nominated for **Best Capstone Project**
+Nominated for Best Capstone Project
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🖥️ Technical Support Intern — Inspiro
+### Technical Support Intern — Inspiro
 
-📅 February 2026 – May 2026
+February 2026 – May 2026
 
 * Troubleshot network connectivity and hardware issues
 * Diagnosed and resolved computer and office equipment problems
@@ -78,18 +78,18 @@ An integrated mobile and web-based e-governance system for Barangay 73, Caloocan
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-* ☕ Java Foundations — Oracle Academy
-* 🖧 System Administration — STI Professional Institute
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [francoestavillo123@gmail.com](mailto:francoestavillo123@gmail.com)
-* 📱 Phone: +63 976 525 2232
+* Java Foundations — Oracle Academy
+* System Administration — STI Professional Institute
 
 ---
 
-⭐ *"Always learning, building, and improving one project at a time."*
+## Connect With Me
+
+* Email: [francoestavillo123@gmail.com](mailto:francoestavillo123@gmail.com)
+* Phone: +63 976 525 2232
+
+---
+
+*"Always learning, building, and improving one project at a time."*
