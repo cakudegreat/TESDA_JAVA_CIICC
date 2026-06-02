@@ -7,7 +7,8 @@ public class Main {
         char c = 'H';
         boolean bool = true;
 
-        String output = c + "" + b + s + i + "0 World " + (int)f + ".0 " + bool;
+        String output = c + "" + b + s + i + "0 World " + (int) f + ".0 " + bool;
         System.out.println(output);
+
     }
 }
