@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     public class Chapter1_Task3 {
         public static void main(String [] args) {
 
@@ -17,3 +18,6 @@
 
         }
     }
+=======
+
+>>>>>>> 5d9e71405165ee4cf89e0c8f38204b5be74547d1
